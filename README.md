@@ -2,6 +2,10 @@
 Note :- Please login first at localhost:4000/admin/login or localhost:4000/user/login to get token and After login pass 
         that token in header Authorization as Bearer (token) to access  End-points.
 
+##Products Route##
+
+    GET-localhost:4000/products/
+
 ##Admin Routes##
 
     POST-localhost:4000/admin/login provide Login details along with request email,password
